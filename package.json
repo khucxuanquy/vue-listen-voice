@@ -12,6 +12,26 @@
     "dist/*",
     "src/**/*.vue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khucxuanquy/vue-listen-voice.git"
+  },
+  "author": "khuc xuan quy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khucxuanquy/vue-listen-voice/issues"
+  },
+  "homepage": "https://github.com/khucxuanquy/vue-listen-voice#readme",
+  "keywords": [
+    "vue",
+    "voice",
+    "listen voice",
+    "speech to text",
+    "microphone",
+    "recognition",
+    "web",
+    "speech api"
+  ],
   "sideEffects": false,
 
   "scripts": {
