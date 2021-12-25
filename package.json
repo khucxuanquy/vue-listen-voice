@@ -1,6 +1,6 @@
 {
   "name": "vue-listen-voice",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A nice component listen voice",
 
   "main": "dist/vue-listen-voice.ssr.js",
